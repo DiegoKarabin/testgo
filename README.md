@@ -7,10 +7,10 @@ The endpoint should take up to 2.5s to respond with the required information.
 
 
 ## Requirements
-Golang
-Gin
-Go-redis
-Redis
+- Golang
+- Gin
+- Go-redis
+- Redis
 
 To run redis with docker use:
 ```bash
